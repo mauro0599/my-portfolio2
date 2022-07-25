@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/mauro0599/my-portfolio2/issues"
   },
-  "homepage": "https://github.com/mauro0599/my-portfolio2/simplefolio#readme",
+  "homepage": "https://github.com/mauro0599/my-portfolio2/my-portfolio2#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
     "parcel": "^2.0.1",
