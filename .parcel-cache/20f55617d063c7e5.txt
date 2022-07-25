@@ -1,4 +1,4 @@
-16811
+16906
 63C:\GitHub\my-portfolio2\node_modules\jquery\dist\jquery.min.map133032423351611432 0
 60C:\GitHub\my-portfolio2\node_modules\strip-ansi\package.json133032423262716154 0
 67C:\GitHub\my-portfolio2\node_modules\es-abstract\2018\SplitMatch.js133032423424480919 0
@@ -39,7 +39,7 @@
 80C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\features\css-variables.js133032423370077340 0
 55C:\GitHub\my-portfolio2\node_modules\lodash\isSymbol.js133032423415817896 0
 60C:\GitHub\my-portfolio2\node_modules\restore-cursor\index.js133032423267462514 0
-36C:\GitHub\my-portfolio2\node_modules133032429671521444 1
+36C:\GitHub\my-portfolio2\node_modules133032438730894596 1
 61C:\GitHub\my-portfolio2\node_modules\lodash\takeRightWhile.js133032423426429848 0
 76C:\GitHub\my-portfolio2\node_modules\string.prototype.trimstart\CHANGELOG.md133032423265685424 0
 61C:\GitHub\my-portfolio2\node_modules\postcss\lib\comment.d.ts133032423308965656 0
@@ -179,13 +179,14 @@
 38C:\GitHub\my-portfolio2\src\index.html133032420620794877 0
 73C:\GitHub\my-portfolio2\node_modules\core-js\stable\typed-array\reduce.js133032423437752250 0
 69C:\GitHub\my-portfolio2\node_modules\postcss-modules-local-by-default133032423279814180 1
-43C:\GitHub\my-portfolio2\node_modules\stable133032423265221533 1
-36C:\GitHub\my-portfolio2\src\logo.svg133032420620806847 0
-68C:\GitHub\my-portfolio2\node_modules\css-tree\lib\syntax\node\Raw.js133032423351443459 0
 42C:\GitHub\my-portfolio2\node_modules\debug133032423329036373 1
 55C:\GitHub\my-portfolio2\node_modules\uri-js\dist\esnext133032423283627830 1
 102C:\GitHub\my-portfolio2\node_modules\ansi-escapes\node_modules\type-fest\source\async-return-type.d.ts133032423402451477 0
 60C:\GitHub\my-portfolio2\node_modules\object-is\test\index.js133032423289407636 0
+36C:\GitHub\my-portfolio2\src\logo.svg133032420620806847 0
+68C:\GitHub\my-portfolio2\node_modules\css-tree\lib\syntax\node\Raw.js133032423351443459 0
+43C:\GitHub\my-portfolio2\node_modules\stable133032423265221533 1
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\ae133032438804191828 1
 106C:\GitHub\my-portfolio2\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\postcss.d.ts133032423407931219 0
 64C:\GitHub\my-portfolio2\node_modules\yaml\browser\types\pairs.js133032423261605794 0
 79C:\GitHub\my-portfolio2\node_modules\uncss\node_modules\postcss\lib\tokenize.js133032423406906837 0
@@ -226,6 +227,7 @@
 53C:\GitHub\my-portfolio2\node_modules\ejs\package.json133032423319263635 0
 54C:\GitHub\my-portfolio2\node_modules\qs\test\.eslintrc133032423281961167 0
 78C:\GitHub\my-portfolio2\node_modules\assert\build\internal\util\comparisons.js133032423333221322 0
+43C:\GitHub\my-portfolio2\node_modules\.cache133032438730894596 1
 75C:\GitHub\my-portfolio2\node_modules\core-js\modules\esnext.iterator.map.js133032423415485649 0
 63C:\GitHub\my-portfolio2\node_modules\public-encrypt\test\ec.pub133032423283991790 0
 63C:\GitHub\my-portfolio2\node_modules\serve-handler\node_modules133032423234560748 1
@@ -785,6 +787,7 @@
 42C:\GitHub\my-portfolio2\node_modules\bn.js133032423330012804 1
 50C:\GitHub\my-portfolio2\node_modules\trim-repeated133032429668653617 1
 61C:\GitHub\my-portfolio2\node_modules\lodash\fp\isMatchWith.js133032423415260856 0
+112C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\refs\tags133032438745379917 1
 72C:\GitHub\my-portfolio2\node_modules\postcss-reduce-initial\package.json133032423276363859 0
 57C:\GitHub\my-portfolio2\node_modules\@types\node\net.d.ts133032423337655398 0
 53C:\GitHub\my-portfolio2\node_modules\verror\README.md133032423258501370 0
@@ -1572,6 +1575,7 @@
 51C:\GitHub\my-portfolio2\node_modules\sha.js\LICENSE133032423280062617 0
 62C:\GitHub\my-portfolio2\node_modules\@parcel\core\package.json133032423413275180 0
 90C:\GitHub\my-portfolio2\node_modules\globby\node_modules\fast-glob\out\readers\reader.d.ts133032423409704690 0
+165C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\pack\pack-98f9e686ff1efbf0fba8066cc7cb6673a9ab39c0.idx133032438789691075 0
 48C:\GitHub\my-portfolio2\node_modules\lodash.uniq133032423290303458 1
 57C:\GitHub\my-portfolio2\node_modules\lodash\extendWith.js133032423412617663 0
 80C:\GitHub\my-portfolio2\node_modules\jsdom\lib\jsdom\living\helpers\selectors.js133032423388356707 0
@@ -1660,6 +1664,7 @@
 80C:\GitHub\my-portfolio2\node_modules\es-abstract\2020\BigInt\signedRightShift.js133032423423907345 0
 61C:\GitHub\my-portfolio2\node_modules\shebang-command\index.js133032423265619922 0
 74C:\GitHub\my-portfolio2\node_modules\core-js\es\typed-array\copy-within.js133032423362831037 0
+118C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\favicon.12ba245e.png133032438803814162 0
 71C:\GitHub\my-portfolio2\node_modules\postcss-normalize-url\package.json133032423276079574 0
 54C:\GitHub\my-portfolio2\node_modules\nan\doc\errors.md133032423318671149 0
 59C:\GitHub\my-portfolio2\node_modules\tough-cookie\README.md133032423260707808 0
@@ -1744,6 +1749,7 @@
 73C:\GitHub\my-portfolio2\node_modules\@babel\compat-data\native-modules.js133032423401159497 0
 77C:\GitHub\my-portfolio2\node_modules\vanilla-tilt\.idea\runConfigurations.xml133032423267471139 0
 65C:\GitHub\my-portfolio2\node_modules\postcss-modules\node_modules133032423234550813 1
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\50133032438805859836 1
 45C:\GitHub\my-portfolio2\node_modules\htmlnano133032423336775948 1
 73C:\GitHub\my-portfolio2\node_modules\@babel\types\lib\converters\Scope.js133032423406856264 0
 62C:\GitHub\my-portfolio2\node_modules\json-schema\test\tests.js133032423325630700 0
@@ -2197,6 +2203,7 @@
 61C:\GitHub\my-portfolio2\node_modules\assert-plus\package.json133032423329028285 0
 56C:\GitHub\my-portfolio2\node_modules\lodash\fp\update.js133032423429345213 0
 75C:\GitHub\my-portfolio2\node_modules\core-js\modules\es.number.parse-int.js133032423411719681 0
+134C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\hooks\prepare-commit-msg.sample133032438745358581 0
 53C:\GitHub\my-portfolio2\node_modules\isarray\Makefile133032423301274792 0
 93C:\GitHub\my-portfolio2\node_modules\@parcel\transformer-json\node_modules\json5\lib\parse.js133032423403549467 0
 70C:\GitHub\my-portfolio2\node_modules\source-map-js\lib\mapping-list.js133032423265049858 0
@@ -2423,6 +2430,7 @@
 78C:\GitHub\my-portfolio2\node_modules\postcss-modules-local-by-default\index.js133032423279276351 0
 79C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\features\inline-block.js133032423412709556 0
 47C:\GitHub\my-portfolio2\node_modules\source-map133032423288464648 1
+130C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\hooks\pre-applypatch.sample133032438745337750 0
 55C:\GitHub\my-portfolio2\node_modules\to-fast-properties133032423261780595 1
 82C:\GitHub\my-portfolio2\node_modules\core-js\internals\async-iterator-prototype.js133032423340375340 0
 58C:\GitHub\my-portfolio2\node_modules\postcss\lib\result.js133032423296223498 0
@@ -2684,6 +2692,7 @@
 41C:\GitHub\my-portfolio2\node_modules\yaml133032423277490527 1
 74C:\GitHub\my-portfolio2\node_modules\core-js\features\instance\for-each.js133032423425113195 0
 65C:\GitHub\my-portfolio2\node_modules\es-abstract\2020\TimeClip.js133032423427108493 0
+152C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\a1\ecb58f8a95f5e976e259e22b2516b516c11b91133032438804203160 0
 55C:\GitHub\my-portfolio2\node_modules\lodash\fp\clamp.js133032423408377202 0
 49C:\GitHub\my-portfolio2\node_modules\yaml\browser133032423269825223 1
 46C:\GitHub\my-portfolio2\node_modules\yaml\dist133032423270587201 1
@@ -3357,6 +3366,7 @@
 80C:\GitHub\my-portfolio2\node_modules\terser\node_modules\source-map\CHANGELOG.md133032423393484319 0
 53C:\GitHub\my-portfolio2\node_modules\svgo\lib\path.js133032423273550366 0
 72C:\GitHub\my-portfolio2\node_modules\vm-browserify\example\run\server.js133032423258619743 0
+115C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\info133032438745442398 1
 77C:\GitHub\my-portfolio2\node_modules\postcss-discard-duplicates\dist\index.js133032423278970778 0
 57C:\GitHub\my-portfolio2\node_modules\lodash\fp\without.js133032423430001173 0
 57C:\GitHub\my-portfolio2\node_modules\verror\lib\verror.js133032423260284142 0
@@ -3451,6 +3461,7 @@
 64C:\GitHub\my-portfolio2\node_modules\@parcel\package-manager\lib133032423381349832 1
 68C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\regions\ST.js133032423421917263 0
 71C:\GitHub\my-portfolio2\node_modules\relateurl\lib\relate\relativize.js133032423274388614 0
+116C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\index.88ae5040.css133032438803857707 0
 65C:\GitHub\my-portfolio2\node_modules\vanilla-tilt\CONTRIBUTORS.md133032423266526254 0
 102C:\GitHub\my-portfolio2\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\list.js133032423406641013 0
 53C:\GitHub\my-portfolio2\node_modules\vanilla-tilt\lib133032423266608684 1
@@ -3483,6 +3494,7 @@
 61C:\GitHub\my-portfolio2\node_modules\v8-compile-cache\LICENSE133032423257722748 0
 118C:\GitHub\my-portfolio2\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\source-not-symlinked\dist.js133032423394442310 0
 54C:\GitHub\my-portfolio2\node_modules\uuid\CHANGELOG.md133032423263758690 0
+107C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\refs133032438789988617 1
 52C:\GitHub\my-portfolio2\node_modules\process\test.js133032423280140627 0
 63C:\GitHub\my-portfolio2\node_modules\@parcel\types\package.json133032423340358666 0
 74C:\GitHub\my-portfolio2\node_modules\core-js\proposals\reflect-metadata.js133032423437773938 0
@@ -4277,6 +4289,7 @@
 67C:\GitHub\my-portfolio2\node_modules\console-browserify\test\static133032423325504156 1
 64C:\GitHub\my-portfolio2\node_modules\tough-cookie\lib\version.js133032423263214761 0
 104C:\GitHub\my-portfolio2\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\postcss.js133032423408167272 0
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\qr.1f073522.jpg133032438803869351 0
 58C:\GitHub\my-portfolio2\node_modules\range-parser\index.js133032423271802600 0
 60C:\GitHub\my-portfolio2\node_modules\to-regex-range\index.js133032423260406468 0
 59C:\GitHub\my-portfolio2\node_modules\range-parser\README.md133032423270758314 0
@@ -4585,6 +4598,7 @@
 61C:\GitHub\my-portfolio2\node_modules\is-interactive\readme.md133032423301264284 0
 84C:\GitHub\my-portfolio2\node_modules\@popperjs\core\lib\dom-utils\getClippingRect.js133032423352676502 0
 62C:\GitHub\my-portfolio2\node_modules\parse5\lib\common\html.js133032423286317449 0
+152C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\bf\e8048cdb9b2b0c5c4d8790ccfc46b6e265dda6133032438804124669 0
 60C:\GitHub\my-portfolio2\node_modules\svgo\plugins\plugins.js133032423274606593 0
 58C:\GitHub\my-portfolio2\node_modules\asn1\lib\ber\index.js133032423331515192 0
 68C:\GitHub\my-portfolio2\node_modules\icss-replace-symbols\.npmignore133032423302398607 0
@@ -5694,6 +5708,7 @@
 73C:\GitHub\my-portfolio2\node_modules\parse5\lib\common\foreign-content.js133032423285270046 0
 76C:\GitHub\my-portfolio2\node_modules\es-abstract\2016\IsGenericDescriptor.js133032423413114513 0
 60C:\GitHub\my-portfolio2\node_modules\prettier\third-party.js133032423353044565 0
+126C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\hooks\pre-rebase.sample133032438745352647 0
 71C:\GitHub\my-portfolio2\node_modules\core-js\es\array\virtual\values.js133032423442718520 0
 68C:\GitHub\my-portfolio2\node_modules\prettier\esm\parser-angular.mjs133032423353375800 0
 58C:\GitHub\my-portfolio2\node_modules\msgpackr\package.json133032423323382392 0
@@ -5943,6 +5958,7 @@
 108C:\GitHub\my-portfolio2\node_modules\postcss-modules\node_modules\postcss-modules-local-by-default\README.md133032423400143700 0
 63C:\GitHub\my-portfolio2\node_modules\@parcel\core\lib\Parcel.js133032423411599532 0
 85C:\GitHub\my-portfolio2\node_modules\postcss-selector-parser\dist\selectors\string.js133032423315411112 0
+112C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\logs\refs133032438789999227 1
 74C:\GitHub\my-portfolio2\node_modules\postcss-normalize-string\package.json133032423277508966 0
 82C:\GitHub\my-portfolio2\node_modules\postcss-selector-parser\dist\selectors\tag.js133032423318590785 0
 51C:\GitHub\my-portfolio2\node_modules\braces\LICENSE133032423330817338 0
@@ -6152,6 +6168,7 @@
 94C:\GitHub\my-portfolio2\node_modules\postcss-modules-values\node_modules\postcss\lib\result.js133032423408296004 0
 82C:\GitHub\my-portfolio2\node_modules\core-js\stable\number\virtual\to-precision.js133032423441476174 0
 92C:\GitHub\my-portfolio2\node_modules\postcss-modules-values\node_modules\postcss\lib\root.js133032423408354865 0
+119C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\index.379dd93c.js.map133032438803822891 0
 103C:\GitHub\my-portfolio2\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\vendor.js133032423409352538 0
 73C:\GitHub\my-portfolio2\node_modules\gh-pages\node_modules\async\internal133032429671367628 1
 92C:\GitHub\my-portfolio2\node_modules\postcss-modules-values\node_modules\postcss\lib\rule.js133032423408414448 0
@@ -6302,6 +6319,7 @@
 63C:\GitHub\my-portfolio2\node_modules\http-proxy\.auto-changelog133032423302393603 0
 68C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\regions\MY.js133032423415470604 0
 68C:\GitHub\my-portfolio2\node_modules\postcss-discard-empty\README.md133032423283429236 0
+119C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\index.79e9708c.js.map133032438803822891 0
 65C:\GitHub\my-portfolio2\node_modules\@parcel\resolver-default\src133032423349829178 1
 100C:\GitHub\my-portfolio2\node_modules\postcss-modules-scope\node_modules\color-convert\conversions.js133032423396831443 0
 51C:\GitHub\my-portfolio2\node_modules\events\.github133032423333687540 1
@@ -6788,6 +6806,7 @@
 66C:\GitHub\my-portfolio2\node_modules\parse5\lib\tokenizer\index.js133032423307082672 0
 69C:\GitHub\my-portfolio2\node_modules\postcss-calc\dist\lib\reducer.js133032423285182085 0
 94C:\GitHub\my-portfolio2\node_modules\@parcel\runtime-js\src\helpers\browser\prefetch-loader.js133032423364354867 0
+102C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git133032438805890430 1
 65C:\GitHub\my-portfolio2\node_modules\jquery\src\core\camelCase.js133032423312224835 0
 58C:\GitHub\my-portfolio2\node_modules\node-releases\LICENSE133032423284566959 0
 75C:\GitHub\my-portfolio2\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133032423353166624 0
@@ -7177,6 +7196,7 @@
 89C:\GitHub\my-portfolio2\node_modules\msgpackr-extract\prebuilds\win32-x64\node.abi93.node133032423338360733 0
 67C:\GitHub\my-portfolio2\node_modules\core-js\features\symbol\for.js133032423425469833 0
 53C:\GitHub\my-portfolio2\node_modules\parse5\lib\utils133032423313467967 1
+152C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\e7\54eb4d029831ff58bd1e3d18fe7b342e0fa366133032438804384667 0
 82C:\GitHub\my-portfolio2\node_modules\fast-json-stable-stringify\example\key_cmp.js133032423314633657 0
 79C:\GitHub\my-portfolio2\node_modules\core-js\modules\es.typed-array.subarray.js133032423414506288 0
 72C:\GitHub\my-portfolio2\node_modules\parse5\lib\tree-adapters\default.js133032423310797338 0
@@ -7880,9 +7900,9 @@
 72C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\regions\alt-eu.js133032423333971628 0
 48C:\GitHub\my-portfolio2\node_modules\asn1.js\lib133032423331549181 1
 56C:\GitHub\my-portfolio2\node_modules\lodash\cloneWith.js133032423409071800 0
+53C:\GitHub\my-portfolio2\node_modules\lodash\create.js133032423410579935 0
 78C:\GitHub\my-portfolio2\node_modules\@parcel\namer-default\lib\DefaultNamer.js133032423377091200 0
 51C:\GitHub\my-portfolio2\node_modules\lodash\cond.js133032423410062036 0
-53C:\GitHub\my-portfolio2\node_modules\lodash\create.js133032423410579935 0
 73C:\GitHub\my-portfolio2\node_modules\css-tree\lib\syntax\node\Function.js133032423336206785 0
 55C:\GitHub\my-portfolio2\node_modules\lodash\conforms.js133032423410288442 0
 72C:\GitHub\my-portfolio2\node_modules\es-abstract\2015\SetFunctionName.js133032423423466026 0
@@ -8001,6 +8021,7 @@
 56C:\GitHub\my-portfolio2\node_modules\lodash\isInteger.js133032423415210426 0
 55C:\GitHub\my-portfolio2\node_modules\lodash\isLength.js133032423415225325 0
 87C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\features\spellcheck-attribute.js133032423421788565 0
+127C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\logs\refs\heads\gh-pages133032438805881061 0
 88C:\GitHub\my-portfolio2\node_modules\jsdom\lib\jsdom\living\nodes\HTMLCollection-impl.js133032423409677426 0
 61C:\GitHub\my-portfolio2\node_modules\is-typed-array\.eslintrc133032423299383465 0
 54C:\GitHub\my-portfolio2\node_modules\lodash\isMatch.js133032423415255891 0
@@ -8230,6 +8251,7 @@
 69C:\GitHub\my-portfolio2\node_modules\loader-utils\lib\urlToRequest.js133032423311534587 0
 79C:\GitHub\my-portfolio2\node_modules\css-select\lib\pseudo-selectors\filters.js133032423324169744 0
 64C:\GitHub\my-portfolio2\node_modules\define-properties\README.md133032423325745536 0
+107C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\info133032438745371797 1
 56C:\GitHub\my-portfolio2\node_modules\lodash\zipObject.js133032423430763900 0
 60C:\GitHub\my-portfolio2\node_modules\lodash\zipObjectDeep.js133032423430912148 0
 75C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\features\download.js133032423404151453 0
@@ -9006,6 +9028,7 @@
 58C:\GitHub\my-portfolio2\node_modules\lodash\fp\toString.js133032423427745116 0
 73C:\GitHub\my-portfolio2\node_modules\highlight.js\lib\languages\kotlin.js133032423359495910 0
 57C:\GitHub\my-portfolio2\node_modules\lodash\fp\toUpper.js133032423427769948 0
+114C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\description133032438745282232 0
 54C:\GitHub\my-portfolio2\node_modules\lodash\fp\trim.js133032423428293164 0
 52C:\GitHub\my-portfolio2\node_modules\json-schema\lib133032423324159027 1
 59C:\GitHub\my-portfolio2\node_modules\lodash\fp\trimChars.js133032423428313725 0
@@ -9315,6 +9338,7 @@
 88C:\GitHub\my-portfolio2\node_modules\jsdom\lib\jsdom\living\traversal\TreeWalker-impl.js133032423412719697 0
 55C:\GitHub\my-portfolio2\node_modules\levn\lib\coerce.js133032423296582269 0
 70C:\GitHub\my-portfolio2\node_modules\es-abstract\2021\IteratorValue.js133032423414941894 0
+115C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\info\exclude133032438745372903 0
 61C:\GitHub\my-portfolio2\node_modules\levn\lib\parse-string.js133032423298250162 0
 66C:\GitHub\my-portfolio2\node_modules\fast-levenshtein\package.json133032423309901134 0
 54C:\GitHub\my-portfolio2\node_modules\levn\lib\parse.js133032423298873091 0
@@ -9794,6 +9818,7 @@
 88C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\features\requestanimationframe.js133032423419503422 0
 88C:\GitHub\my-portfolio2\node_modules\@parcel\core\test\fixtures\main-global\package.json133032423413598857 0
 89C:\GitHub\my-portfolio2\node_modules\jsdom\lib\jsdom\living\generated\HTMLTableElement.js133032423356950236 0
+132C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\hooks\pre-merge-commit.sample133032438745342711 0
 61C:\GitHub\my-portfolio2\node_modules\es-abstract\2015\GetV.js133032423409979617 0
 71C:\GitHub\my-portfolio2\node_modules\jquery\src\manipulation\wrapMap.js133032423350362846 0
 96C:\GitHub\my-portfolio2\node_modules\jsdom\lib\jsdom\living\generated\HTMLTableSectionElement.js133032423357577818 0
@@ -10041,12 +10066,12 @@
 77C:\GitHub\my-portfolio2\node_modules\core-js\modules\web.url-search-params.js133032423442847174 0
 70C:\GitHub\my-portfolio2\node_modules\jquery\src\core\var\rsingleTag.js133032423339379241 0
 69C:\GitHub\my-portfolio2\node_modules\jquery\src\attributes\classes.js133032423314417091 0
-66C:\GitHub\my-portfolio2\node_modules\es-abstract\2021\BinaryAnd.js133032423339517009 0
-64C:\GitHub\my-portfolio2\node_modules\htmlparser2\lib\Parser.d.ts133032423318099926 0
-65C:\GitHub\my-portfolio2\node_modules\jquery\src\attributes\val.js133032423349964080 0
-57C:\GitHub\my-portfolio2\node_modules\core-js\es\escape.js133032423414601153 0
 66C:\GitHub\my-portfolio2\node_modules\has-tostringtag\test\tests.js133032423317187128 0
 70C:\GitHub\my-portfolio2\node_modules\highlight.js\lib\languages\fix.js133032423353504677 0
+64C:\GitHub\my-portfolio2\node_modules\htmlparser2\lib\Parser.d.ts133032423318099926 0
+65C:\GitHub\my-portfolio2\node_modules\jquery\src\attributes\val.js133032423349964080 0
+66C:\GitHub\my-portfolio2\node_modules\es-abstract\2021\BinaryAnd.js133032423339517009 0
+57C:\GitHub\my-portfolio2\node_modules\core-js\es\escape.js133032423414601153 0
 56C:\GitHub\my-portfolio2\node_modules\jquery\src\ajax\var133032423339011773 1
 59C:\GitHub\my-portfolio2\node_modules\jquery\src\ajax\xhr.js133032423350412058 0
 71C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\features\ping.js133032423417632406 0
@@ -10276,6 +10301,7 @@
 53C:\GitHub\my-portfolio2\node_modules\is-nan\.eslintrc133032423299378500 0
 60C:\GitHub\my-portfolio2\node_modules\is-negative-zero\.nycrc133032423300156554 0
 65C:\GitHub\my-portfolio2\node_modules\es-abstract\2016\IsRegExp.js133032423413811926 0
+118C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\logs\refs\heads133032438805881061 1
 74C:\GitHub\my-portfolio2\node_modules\core-js\stable\get-iterator-method.js133032423426684307 0
 62C:\GitHub\my-portfolio2\node_modules\is-negative-zero\index.js133032423302424416 0
 61C:\GitHub\my-portfolio2\node_modules\is-negative-zero\LICENSE133032423301071825 0
@@ -11180,6 +11206,7 @@
 64C:\GitHub\my-portfolio2\node_modules\generic-names\.idea\vcs.xml133032423328339227 0
 77C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\features\hashchange.js133032423411978969 0
 64C:\GitHub\my-portfolio2\node_modules\function-bind\.editorconfig133032423315342641 0
+122C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\refs\remotes\origin133032438990741765 1
 68C:\GitHub\my-portfolio2\node_modules\function-bind\implementation.js133032423310886926 0
 52C:\GitHub\my-portfolio2\node_modules\foreach\LICENSE133032423318402394 0
 58C:\GitHub\my-portfolio2\node_modules\fs.realpath\README.md133032423308490965 0
@@ -11354,6 +11381,7 @@
 58C:\GitHub\my-portfolio2\node_modules\extend\component.json133032423317491662 0
 64C:\GitHub\my-portfolio2\node_modules\@parcel\package-manager\src133032423370946319 1
 52C:\GitHub\my-portfolio2\node_modules\extend\index.js133032423318397432 0
+126C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\hooks\pre-commit.sample133032438745337750 0
 72C:\GitHub\my-portfolio2\node_modules\es-abstract\2020\QuoteJSONString.js133032423420548524 0
 53C:\GitHub\my-portfolio2\node_modules\extend\README.md133032423321096455 0
 73C:\GitHub\my-portfolio2\node_modules\@parcel\core\lib\loadParcelPlugin.js133032423411059567 0
@@ -11814,6 +11842,7 @@
 70C:\GitHub\my-portfolio2\node_modules\es-abstract\2020\ToPropertyKey.js133032423430330693 0
 65C:\GitHub\my-portfolio2\node_modules\es-abstract\2020\ToUint16.js133032423430985341 0
 61C:\GitHub\my-portfolio2\node_modules\es-abstract\2020\Type.js133032423431559287 0
+115C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\logo.508a41ae.svg133032438803822891 0
 70C:\GitHub\my-portfolio2\node_modules\es-abstract\2020\UnicodeEscape.js133032423431630304 0
 80C:\GitHub\my-portfolio2\node_modules\@popperjs\core\lib\utils\expandToHashMap.js133032423351707293 0
 81C:\GitHub\my-portfolio2\node_modules\es-abstract\2020\UTF16DecodeSurrogatePair.js133032423431933444 0
@@ -12461,6 +12490,7 @@
 66C:\GitHub\my-portfolio2\node_modules\entities\lib\encode-trie.d.ts133032423333281819 0
 64C:\GitHub\my-portfolio2\node_modules\entities\lib\encode-trie.js133032423321177735 0
 66C:\GitHub\my-portfolio2\node_modules\@babel\traverse\lib\scope\lib133032423404561376 1
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\bf133032438804154570 1
 75C:\GitHub\my-portfolio2\node_modules\core-js\modules\es.typed-array.fill.js133032423413900239 0
 61C:\GitHub\my-portfolio2\node_modules\entities\lib\encode.d.ts133032423333338203 0
 65C:\GitHub\my-portfolio2\node_modules\entities\lib\encode.d.ts.map133032423331544215 0
@@ -12531,6 +12561,7 @@
 67C:\GitHub\my-portfolio2\node_modules\core-js\es\string\pad-start.js133032423436852252 0
 69C:\GitHub\my-portfolio2\node_modules\electron-to-chromium\versions.js133032423319319284 0
 47C:\GitHub\my-portfolio2\node_modules\ejs\ejs.js133032423315496867 0
+122C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\refs\heads\gh-pages133032438805869372 0
 51C:\GitHub\my-portfolio2\node_modules\ejs\ejs.min.js133032423321297785 0
 56C:\GitHub\my-portfolio2\node_modules\core-js\es\index.js133032423430332342 0
 52C:\GitHub\my-portfolio2\node_modules\ejs\jakefile.js133032423318206683 0
@@ -12960,6 +12991,7 @@
 59C:\GitHub\my-portfolio2\node_modules\@parcel\compressor-raw133032423384608653 1
 79C:\GitHub\my-portfolio2\node_modules\css-tree\lib\syntax\node\MediaQueryList.js133032423340674562 0
 71C:\GitHub\my-portfolio2\node_modules\css-tree\lib\syntax\node\Number.js133032423349397323 0
+152C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\59\79b967e7fb7f2d270a5f97069ac08b8c762dce133032438805785037 0
 73C:\GitHub\my-portfolio2\node_modules\css-tree\lib\syntax\node\Operator.js133032423349666459 0
 74C:\GitHub\my-portfolio2\node_modules\@popperjs\core\lib\modifiers\arrow.js133032423340474890 0
 66C:\GitHub\my-portfolio2\node_modules\@nodelib\fs.scandir\out\utils133032423403994369 1
@@ -14203,6 +14235,7 @@
 67C:\GitHub\my-portfolio2\node_modules\core-js\features\map\upsert.js133032423442666188 0
 71C:\GitHub\my-portfolio2\node_modules\core-js\features\json\stringify.js133032423440883832 0
 75C:\GitHub\my-portfolio2\node_modules\core-js\features\json\to-string-tag.js133032423441774368 0
+130C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\hooks\applypatch-msg.sample133032438745288408 0
 70C:\GitHub\my-portfolio2\node_modules\core-js\features\iterator\drop.js133032423378724929 0
 71C:\GitHub\my-portfolio2\node_modules\core-js\features\iterator\every.js133032423419942955 0
 86C:\GitHub\my-portfolio2\node_modules\@parcel\transformer-js\parcel-swc.darwin-x64.node133032423413826836 0
@@ -14573,6 +14606,7 @@
 61C:\GitHub\my-portfolio2\node_modules\colord\plugins\a11y.d.ts133032423334363376 0
 62C:\GitHub\my-portfolio2\node_modules\concat-map\example\map.js133032423331509977 0
 54C:\GitHub\my-portfolio2\node_modules\commondir\example133032429668668519 1
+122C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\hooks\update.sample133032438745363551 0
 55C:\GitHub\my-portfolio2\node_modules\commondir\index.js133032429668608827 0
 54C:\GitHub\my-portfolio2\node_modules\commondir\LICENSE133032429668543340 0
 59C:\GitHub\my-portfolio2\node_modules\commondir\package.json133032429668469115 0
@@ -14727,6 +14761,7 @@
 68C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\regions\HU.js133032423412210565 0
 68C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\regions\ID.js133032423412230550 0
 68C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\regions\IE.js133032423412430773 0
+115C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\logo.502ce92a.png133032438803822891 0
 68C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\regions\IQ.js133032423413140290 0
 68C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\regions\IR.js133032423413159530 0
 68C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\regions\IS.js133032423413196614 0
@@ -15006,6 +15041,7 @@
 70C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\features\rem.js133032423419320421 0
 81C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\features\resizeobserver.js133032423419610486 0
 82C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\features\resource-timing.js133032423419631265 0
+166C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\pack\pack-98f9e686ff1efbf0fba8066cc7cb6673a9ab39c0.pack133032438805765830 0
 84C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\features\rtcpeerconnection.js133032423419695832 0
 71C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\features\ruby.js133032423419905457 0
 73C:\GitHub\my-portfolio2\node_modules\caniuse-lite\data\features\run-in.js133032423419930523 0
@@ -15892,6 +15928,7 @@
 82C:\GitHub\my-portfolio2\node_modules\@parcel\transformer-svg\lib\SVGTransformer.js133032423340694816 0
 65C:\GitHub\my-portfolio2\node_modules\@parcel\transformer-sass\lib133032423349214552 1
 69C:\GitHub\my-portfolio2\node_modules\@parcel\transformer-sass\LICENSE133032423348979291 0
+104C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\assets133032438803777632 1
 74C:\GitHub\my-portfolio2\node_modules\@parcel\transformer-sass\package.json133032423349603074 0
 79C:\GitHub\my-portfolio2\node_modules\@parcel\transformer-react-refresh-wrap\lib133032423350289513 1
 75C:\GitHub\my-portfolio2\node_modules\@babel\helper-split-export-declaration133032423390391394 1
@@ -16245,6 +16282,7 @@
 86C:\GitHub\my-portfolio2\node_modules\@parcel\core\test\fixtures\custom-format-mismatch133032423413389872 1
 86C:\GitHub\my-portfolio2\node_modules\@parcel\core\test\fixtures\custom-targets-distdir133032423413404774 1
 81C:\GitHub\my-portfolio2\node_modules\@parcel\core\test\fixtures\duplicate-targets133032423413442543 1
+108C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\hooks133032438745363551 1
 94C:\GitHub\my-portfolio2\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file133032423413531031 1
 82C:\GitHub\my-portfolio2\node_modules\@parcel\core\test\fixtures\library-scopehoist133032423413576531 1
 84C:\GitHub\my-portfolio2\node_modules\@parcel\core\test\fixtures\main-format-mismatch133032423413583570 1
@@ -16286,6 +16324,7 @@
 69C:\GitHub\my-portfolio2\node_modules\@parcel\core\src\ParcelConfig.js133032423411949170 0
 76C:\GitHub\my-portfolio2\node_modules\@parcel\core\src\ParcelConfig.schema.js133032423411983937 0
 60C:\GitHub\my-portfolio2\node_modules\@parcel\core\src\public133032423412714522 1
+118C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\project.0b14f8de.jpg133032438803880875 0
 71C:\GitHub\my-portfolio2\node_modules\@parcel\core\src\ReporterRunner.js133032423412451723 0
 71C:\GitHub\my-portfolio2\node_modules\@parcel\core\src\RequestTracker.js133032423412492106 0
 71C:\GitHub\my-portfolio2\node_modules\@parcel\core\src\resolveOptions.js133032423412548857 0
@@ -16724,6 +16763,62 @@
 58C:\GitHub\my-portfolio2\node_modules\@babel\code-frame\lib133032423391878577 1
 62C:\GitHub\my-portfolio2\node_modules\@babel\code-frame\LICENSE133032423389943378 0
 67C:\GitHub\my-portfolio2\node_modules\@babel\code-frame\package.json133032423394257014 0
+52C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages133032438745262299 1
+97C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git133032438803809195 1
+115C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\index.379dd93c.js133032438803814162 0
+115C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\index.79e9708c.js133032438803822891 0
+120C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\index.88ae5040.css.map133032438803892844 0
+116C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\index.de7da63a.css133032438803869351 0
+120C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\index.de7da63a.css.map133032438803849764 0
+108C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\index.html133032438803822891 0
+115C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\logo.43ae409c.svg133032438803822891 0
+118C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\profile.e0292db3.jpg133032438803899741 0
+118C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\project.363fc093.jpg133032438803892844 0
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\qr.9d70e572.jpg133032438803869351 0
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\yo.487b4b6c.jpg133032438803832998 0
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\yo.e955ae84.jpg133032438803832998 0
+115C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\assets\resume.pdf133032438803814162 0
+117C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\COMMIT_EDITMSG133032438805829495 0
+109C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\config133032438805147882 0
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\FETCH_HEAD133032438800581113 0
+107C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\HEAD133032438803281733 0
+108C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\index133032438805809812 0
+107C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\logs133032438790038886 1
+110C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects133032438806005007 1
+114C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\packed-refs133032438789975718 0
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\refs\heads133032438805886021 1
+115C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\refs\remotes133032438789990774 1
+131C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\refs\remotes\origin\gh-pages133032438990730525 0
+127C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\refs\remotes\origin\HEAD133032438790016039 0
+120C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\refs\heads\master133032438790038886 0
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\28133032438804431765 1
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\3b133032438804269905 1
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\59133032438805804807 1
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\66133032438804630644 1
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\a1133032438804224240 1
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\a9133032438804713004 1
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\b0133032438804364635 1
+113C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\e7133032438804407163 1
+115C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\pack133032438790088410 1
+152C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\b0\d06a9dc76dccc1bc7499e0acd6f62ae7d2b54c133032438804343749 0
+152C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\ae\dc30e3499130daafd76a6b1d70c1ef6e7a29ed133032438804175242 0
+152C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\a9\abd416eb7d12d00fe181f4f4693a98e716778a133032438804695289 0
+152C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\66\9320e77365be1c9105759e3cd51233b4116a51133032438804610666 0
+152C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\50\52b45ecf310dc249aa536a46d4cc161f8ff7a1133032438805839474 0
+152C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\3b\983395728f6e6301290e430cb297274cfc82eb133032438804244259 0
+152C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\objects\28\acb757d2fd211c260a0c7caa2c53920301a3a3133032438804417236 0
+112C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\logs\HEAD133032438805881061 0
+120C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\logs\refs\remotes133032438789999227 1
+127C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\logs\refs\remotes\origin133032438990734826 1
+136C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\logs\refs\remotes\origin\gh-pages133032438990741765 0
+132C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\logs\refs\remotes\origin\HEAD133032438790003913 0
+125C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\logs\refs\heads\master133032438790047340 0
+126C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\hooks\commit-msg.sample133032438745292907 0
+134C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\hooks\fsmonitor-watchman.sample133032438745330196 0
+127C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\hooks\post-update.sample133032438745331719 0
+124C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\hooks\pre-push.sample133032438745347672 0
+127C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\hooks\pre-receive.sample133032438745358055 0
+132C:\GitHub\my-portfolio2\node_modules\.cache\gh-pages\https!github.com!mauro0599!my-portfolio2.git\.git\hooks\push-to-checkout.sample133032438745363551 0
 47C:\GitHub\my-portfolio2\node_modules\.bin\acorn133032423443634976 0
 51C:\GitHub\my-portfolio2\node_modules\.bin\ansi-html133032423443634976 0
 49C:\GitHub\my-portfolio2\node_modules\.bin\astring133032423443640190 0
