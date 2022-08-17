@@ -6,7 +6,7 @@
   "source": "src/index.html",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "start": "parcel",
     "build": "parcel build"
   },
@@ -15,7 +15,7 @@
     "url": "git+https://github.com/mauro0599/my-portfolio2"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jacobo Martinez",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mauro0599/my-portfolio2/issues"
