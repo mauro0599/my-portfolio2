@@ -22,7 +22,9 @@
   },
   "homepage": "http://mauro0599.github.io/my-portfolio2",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.1",
     "gh-pages": "^4.0.0",
+    "parcel": "^2.0.1",
     "prettier": "^2.4.1"
   },
   "dependencies": {
